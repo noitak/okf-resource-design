@@ -1,0 +1,5 @@
+# Local sample data for manual skill testing.
+sample-data/
+
+# macOS metadata.
+.DS_Store
